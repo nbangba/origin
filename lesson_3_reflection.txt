@@ -4,11 +4,13 @@ local?
     -when i want make my work public.
     -when i want to collaborate with others.
     -when i want to back up my information.
+    -when i want to acces my repository from anywhere with internet connection
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    -in case i am collaborating with someone on the same project.
+    -i am using a computer different from mine.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
